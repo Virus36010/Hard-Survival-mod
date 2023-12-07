@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+  Changes:
+    - Mod created.
+    - Added oxyn ore. 
+    - Added oxygen canister. 
+    - Adder big oxygen canister.
+    - You consume oxygen from oxyn ore or canisters from your inventory.
+---------------------------------------------------------------------------------------------------
