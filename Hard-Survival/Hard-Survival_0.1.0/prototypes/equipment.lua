@@ -7,7 +7,7 @@ data:extend({
     name="personal-oxygen-generator",
     energy_consumption = "0kW",
     movement_bonus = 0,
-    categories = {"armor"}
+    categories = {"armor"},
     shape={
       width=3,
       height=3,
